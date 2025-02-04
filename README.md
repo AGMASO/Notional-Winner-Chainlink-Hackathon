@@ -1,3 +1,6 @@
+### DEMO: 
+https://youtu.be/_4PNZSFlt3s
+
 ## Inspiration
 
 The release of Chainlink Functions got us thinking about which Web2 applications could be augmented by or bridged to Web3. Replit's payment model came to mind where developers can outsource tasks to other devs by assigning a 'bounty' to the task. We were inspired by this model of 'bountification' or 'gig economy' of work, and the idea that smart contracts can plug into Web2 systems to create a hybrid of Web2 and Web3. We knew that systems like GitHub already existed for team collaboration, however GitHub was missing automated payments. So we created an app which 'plugs into' GitHub and allows existing teams to benefit from the advantages of Web3 payments without switching to an entirely new platform.
